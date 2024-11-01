@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  path: ^1.8.0
-  uuid: ^3.0.6
+  path: ^1.9.0
+  uuid: ^4.5.1
 
 dev_dependencies:
   flutter_test:
